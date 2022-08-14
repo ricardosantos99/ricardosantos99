@@ -1,10 +1,10 @@
-### 👤 Prazer, eu sou o Ricardo Santos! 
+### 👤  Prazer, eu sou o Ricardo Santos! 
 
-🎈 23 Anos
+🎈  23 Anos
 
-📕 Estudante de Ciência da Computação
+📕  Estudante de Ciência da Computação
 
-💻 Iniciante Devops
+💻  Iniciante Devops
 
 <div align="center">
   <a href="https://github.com/ricardosantos99">
