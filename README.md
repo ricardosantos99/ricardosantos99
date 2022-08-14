@@ -4,6 +4,8 @@
 
 📕 Estudante de Ciência da Computação
 
+💻 Iniciante Devops
+
 <div align="center">
   <a href="https://github.com/ricardosantos99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardosantos99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
